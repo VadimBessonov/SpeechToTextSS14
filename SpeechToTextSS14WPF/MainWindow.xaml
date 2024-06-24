@@ -1,0 +1,16 @@
+﻿<Window x:Class="SpeechToTextSS14WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpeechToTextSS14WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Click="Send" Content="DebugBTN" HorizontalAlignment="Left" Margin="729,404,0,0" VerticalAlignment="Top"/>
+        <Button Click="SetBind" Content="Button" HorizontalAlignment="Left" Margin="42,178,0,0" VerticalAlignment="Top" Height="32" Width="169"/>
+        <TextBox Name="BindButtonBox" HorizontalAlignment="Left" Height="32" Margin="41,137,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" TextChanged="OnTextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="42,107,0,0" TextWrapping="Wrap" Text="Введите клавишу активации" VerticalAlignment="Top" Width="169" TextAlignment="Center"/>
+
+    </Grid>
+</Window>
