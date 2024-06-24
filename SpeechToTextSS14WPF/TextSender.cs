@@ -15,7 +15,7 @@ namespace SpeechToTextSS14WPF
 
         private static void SetWindowActive()
         {
-            string className = Dictionary.AppClasses[0];
+            string className = Dictionary.AppClasses[1];
             IntPtr handle = Find(className);
             SetForegroundWindow(handle);
         }
