@@ -5,6 +5,7 @@ import sys
 r = sr.Recognizer()
 mic = sr.Microphone()
 
+sys.stdin.readline()
 
 sr.LANGUAGE = 'ru-RU'
 
@@ -15,8 +16,4 @@ with mic as sourse:
 text = r.recognize_google(audio, language='ru-RU')
 sys.stdout.write(text)
 
-
-
-
-
-
+exit

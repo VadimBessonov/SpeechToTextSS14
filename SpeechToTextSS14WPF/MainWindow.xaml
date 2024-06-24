@@ -11,6 +11,7 @@
         <Button Click="SetBind" Content="Button" HorizontalAlignment="Left" Margin="42,178,0,0" VerticalAlignment="Top" Height="32" Width="169"/>
         <TextBox Name="BindButtonBox" HorizontalAlignment="Left" Height="32" Margin="41,137,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" TextChanged="OnTextChanged"/>
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="42,107,0,0" TextWrapping="Wrap" Text="Введите клавишу активации" VerticalAlignment="Top" Width="169" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Left" Height="74" Margin="217,134,0,0" TextWrapping="Wrap" Text="ПОКА НЕ РАБОТАЕТ БИНД ПО УМОЛЧАНИЮ НА КЛАВИШУ '\'" VerticalAlignment="Top" Width="196" FontSize="16" FontWeight="Bold"/>
 
     </Grid>
 </Window>

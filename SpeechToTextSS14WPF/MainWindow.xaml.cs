@@ -23,7 +23,7 @@ using System.Security.Policy;
 using System.IO;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
-namespace SpeechToTextSS14WPF
+namespace SpeechToTextSS14WPF // это кошмар, я не хочу это рефакторить
 {
 
     /// <summary>
@@ -31,10 +31,11 @@ namespace SpeechToTextSS14WPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        
         const int KeyUp = 0x2;
+        private int _bindedKey = 0xDC; // '\\' key
         private HwndSource _source;
         private const int HOTKEY_ID = 9000;
+        private Process _process;
 
         public MainWindow()
         {
@@ -48,12 +49,13 @@ namespace SpeechToTextSS14WPF
 
         private void SetBind(object o, EventArgs e)
         {
-            string a = "\\";
+            
+            _bindedKey = '\\';
             if (BindButtonBox.Text != "")
             {
-                a = BindButtonBox.Text.ToUpper();
+                _bindedKey = BindButtonBox.Text.ToUpper().ElementAt(0);
             }
-            MessageBox.Show(Convert.ToString(a[0], 10));
+            MessageBox.Show(Convert.ToString(_bindedKey, 16));
         }
 
         private static void SetWindowAtcive(IntPtr handle)
@@ -80,10 +82,11 @@ namespace SpeechToTextSS14WPF
             _source = HwndSource.FromHwnd(helper.Handle);
             _source.AddHook(HwndHook);
             RegisterHotKey();
+            _process = StartProcess(); // needs to minimize input latency
+
         }
 
-
-        private async void MainMethod()
+        private Process StartProcess()
         {
             ProcessStartInfo startInfo = new ProcessStartInfo("py");
             Process process = new Process();
@@ -97,16 +100,24 @@ namespace SpeechToTextSS14WPF
             startInfo.CreateNoWindow = true;
             startInfo.RedirectStandardError = true;
             startInfo.RedirectStandardOutput = true;
+            startInfo.RedirectStandardInput = true;
 
             process.StartInfo = startInfo;
 
             process.Start();
+            return process;
+        }
+
+        private async void MainMethod()
+        {
+            _process.StandardInput.WriteLine("start");
             //await Task.Delay(5000);
-            string result = await process.StandardOutput.ReadToEndAsync();
-            process.Close();
+            string result = await _process.StandardOutput.ReadToEndAsync();
+            //_process.Close();
 
             //MessageBox.Show(result);
             EnterText(result);
+            _process = StartProcess();
         }
 
         protected override void OnClosed(EventArgs e)
@@ -114,6 +125,7 @@ namespace SpeechToTextSS14WPF
             _source.RemoveHook(HwndHook);
             _source = null;
             UnregisterHotKey();
+            _process.Kill();
             base.OnClosed(e);
         }
 
@@ -158,7 +170,9 @@ namespace SpeechToTextSS14WPF
         private void OnHotKeyPressed()
         {
             IntPtr handle = Find("GLFW30"); //Find("Qt51513QWindowIcon"); 
+
             if (handle == IntPtr.Zero) { MessageBox.Show("Programm not finded!!"); return; }
+
             SetWindowAtcive(handle);
             MainMethod();
             //EnterText("FUARK");

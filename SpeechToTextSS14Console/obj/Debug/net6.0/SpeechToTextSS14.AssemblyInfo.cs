@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeechToTextSS14")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9235d915cd00363d55c6b9390b5394a2a3c5ae7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeechToTextSS14")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeechToTextSS14")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -60,3 +60,4 @@ C:\Users\Vadim\Desktop\Программирование\C#\C# important\SpeechTo
 C:\Users\Vadim\Desktop\Программирование\C#\C# important\SpeechToTextSS14\SpeechToTextSS14WPF\obj\Debug\net8.0-windows\SpeechToTextSS14WPF.pdb
 C:\Users\Vadim\Desktop\Программирование\C#\C# important\SpeechToTextSS14\SpeechToTextSS14WPF\obj\Debug\net8.0-windows\SpeechToTextSS14WPF.genruntimeconfig.cache
 C:\Users\Vadim\Desktop\Программирование\C#\C# important\SpeechToTextSS14\SpeechToTextSS14WPF\obj\Debug\net8.0-windows\ref\SpeechToTextSS14WPF.dll
+C:\Users\Vadim\Desktop\Программирование\C#\C# important\SpeechToTextSS14\SpeechToTextSS14WPF\obj\Debug\net8.0-windows\SpeechToTextSS14WPF.sourcelink.json
