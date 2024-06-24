@@ -3,16 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14Console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\dlls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\hotkeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\translater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\textsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FEE17B6-E9C6-4A87-A237-F278E5BB3765}|..\\SpeechToTextSS14WPF\\SpeechToTextSS14WPF.csproj|c:\\users\\vadim\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\c#\\c# important\\speechtotextss14\\speechtotextss14wpf\\dlls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82BF19B8-EEFB-40C8-88E8-C18D3A7A3120}|..\\PythonSTT\\PythonSTT.pyproj|C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\PythonSTT\\PythonSTT.py||{8B382828-6202-11D1-8870-0000F87579D2}"
@@ -25,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,32 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Dlls.cs",
               "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\Dlls.cs",
               "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\Dlls.cs",
               "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\Dlls.cs",
               "RelativeToolTip": "..\\SpeechToTextSS14WPF\\Dlls.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAAAwAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T13:47:38.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\MainWindow.xaml",
-              "RelativeToolTip": "..\\SpeechToTextSS14WPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-07T02:38:46.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PythonSTT.py",
               "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\PythonSTT\\PythonSTT.py",
               "RelativeDocumentMoniker": "..\\PythonSTT\\PythonSTT.py",
@@ -79,26 +76,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\SpeechToTextSS14WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T02:38:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "..\\SpeechToTextSS14WPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAkwKsAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T02:38:56.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HotKeyManager.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\HotKeyManager.cs",
+              "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\HotKeyManager.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\HotKeyManager.cs",
+              "RelativeToolTip": "..\\SpeechToTextSS14WPF\\HotKeyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:28:24.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Translater.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\Translater.cs",
+              "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\Translater.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\Translater.cs",
+              "RelativeToolTip": "..\\SpeechToTextSS14WPF\\Translater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:49:43.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextSender.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\TextSender.cs",
+              "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\TextSender.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\TextSender.cs",
+              "RelativeToolTip": "..\\SpeechToTextSS14WPF\\TextSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:52:27.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dictionary.cs",
               "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\Dictionary.cs",
               "RelativeDocumentMoniker": "..\\SpeechToTextSS14WPF\\Dictionary.cs",
               "ToolTip": "C:\\Users\\Vadim\\Desktop\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\C#\\C# important\\SpeechToTextSS14\\SpeechToTextSS14WPF\\Dictionary.cs",
               "RelativeToolTip": "..\\SpeechToTextSS14WPF\\Dictionary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANEAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T05:03:22.533Z",
               "EditorCaption": ""

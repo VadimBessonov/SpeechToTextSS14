@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Click="Send" Content="DebugBTN" HorizontalAlignment="Left" Margin="729,404,0,0" VerticalAlignment="Top"/>
         <Button Click="SetBind" Content="Button" HorizontalAlignment="Left" Margin="42,178,0,0" VerticalAlignment="Top" Height="32" Width="169"/>
         <TextBox Name="BindButtonBox" HorizontalAlignment="Left" Height="32" Margin="41,137,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" TextChanged="OnTextChanged"/>
         <TextBlock HorizontalAlignment="Left" Height="18" Margin="42,107,0,0" TextWrapping="Wrap" Text="Введите клавишу активации" VerticalAlignment="Top" Width="169" TextAlignment="Center"/>
